@@ -13,6 +13,15 @@ of a service available to users.
 
 ## Continuous Deployment
 
+Continuous deployment is a method to organise deployments in a way that
+they are done any time a new version of a software is made availabe.
+
+A software is made available after it had been validated by the `continous
+integration` step.
+
+Said differently, to implement the continuous deployment model deployment
+techniques must be used whether they are progressive or not.
+
 ## Software Promotion
 
 The interest of using kargo is to manage complex promotion scenari.
