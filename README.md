@@ -3,6 +3,13 @@ Test kargo promotion tool
 
 I will also use this readme to take notes.
 
+Interesting read: continuous deployment with Spinnaker
+at Netflix:
+https://spinnaker.io/docs/concepts/ebook/ContinuousDeliveryWithSpinnaker.pdf
+
+Kargo, promotion management:
+https://docs.kargo.io/
+
 ## Continuous deployment Or Preogressive deployment
 
 Some define progressive deployment the fact of incrementally roll out
