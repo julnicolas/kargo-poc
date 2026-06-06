@@ -22,6 +22,12 @@ integration` step.
 Said differently, to implement the continuous deployment model deployment
 techniques must be used whether they are progressive or not.
 
+But now one question remains, how do we manage what versions are brought
+to production in which environment? Maybe we would like to send some versions
+only after they remained a certain in dev or staging environment. Maybe for
+some internal reasons some environments can be released a certain day of
+the week. All of these concerns revolve around promotion issues.
+
 ## Software Promotion
 
 The interest of using kargo is to manage complex promotion scenari.
